@@ -1,0 +1,41 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Infantil | Bit Me" tvg-logo="https://www.tvapaxtla.com/wp-content/uploads/2019/07/bitMe-LOGO-cut.png" group-title="Infantil",Infantil | Bit Me
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39528
+#EXTINF:-1 tvg-id="" tvg-name="Infantil | Fuel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1200px-Fuel_TV.svg.png" group-title="Infantil",Infantil | Fuel TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39624
+#EXTINF:-1 tvg-id="" tvg-name="Infantil | NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Infantil",Infantil | NickToons
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39623
+#EXTINF:-1 tvg-id="" tvg-name="Infantil | BABY FIRST" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="Infantil",Infantil | BABY FIRST
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/39501
+#EXTINF:-1 tvg-id="EPG123.56036.XMLTV.CO" tvg-name="Infantil | BABY TV" tvg-logo="http://54.39.128.48/img/71.png" group-title="Infantil",Infantil | BABY TV
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12431
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantil | Boomerang" tvg-logo="http://54.39.128.48/img/72.png" group-title="Infantil",Infantil | Boomerang
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12652
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="Infantil | Cartoon Network" tvg-logo="http://54.39.128.48/img/73.png" group-title="Infantil",Infantil | Cartoon Network
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12644
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="Infantil | Discovery kids" tvg-logo="http://54.39.128.48/img/74.png" group-title="Infantil",Infantil | Discovery kids
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12045
+#EXTINF:-1 tvg-id="disney.mx" tvg-name="Infantil | Disney channel" tvg-logo="http://54.39.128.48/img/75.png" group-title="Infantil",Infantil | Disney channel
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12049
+#EXTINF:-1 tvg-id="disneyjunior.ar" tvg-name="Infantil | Disney Jr" tvg-logo="http://54.39.128.48/img/76.png" group-title="Infantil",Infantil | Disney Jr
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12666
+#EXTINF:-1 tvg-id="disneyxd.co" tvg-name="Infantil | Disney XD" tvg-logo="http://54.39.128.48/img/77.png" group-title="Infantil",Infantil | Disney XD
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12048
+#EXTINF:-1 tvg-id="" tvg-name="Infantil | Locomotion " tvg-logo="http://54.39.128.48/img/79.png" group-title="Infantil",Infantil | Locomotion 
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/14063
+#EXTINF:-1 tvg-id="EPG123.104760.XMLTV.CO" tvg-name="Infantil | Nat Geo Kids" tvg-logo="http://54.39.128.48/img/80.png" group-title="Infantil",Infantil | Nat Geo Kids
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12684
+#EXTINF:-1 tvg-id="EPG123.77783.XMLTV.CO" tvg-name="Infantil | Nick 2" tvg-logo="http://54.39.128.48/img/81.png" group-title="Infantil",Infantil | Nick 2
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12039
+#EXTINF:-1 tvg-id="EPG123.49896.XMLTV.CO" tvg-name="Infantil | Nick Central" tvg-logo="http://54.39.128.48/img/82.png" group-title="Infantil",Infantil | Nick Central
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/15963
+#EXTINF:-1 tvg-id="EPG123.60295.XMLTV.CO" tvg-name="Infantil | Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",Infantil | Nick Jr
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12668
+#EXTINF:-1 tvg-id="nickelodeon.ar" tvg-name="Infantil | Nickelodeon " tvg-logo="http://54.39.128.48/img/83.png" group-title="Infantil",Infantil | Nickelodeon 
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12667
+#EXTINF:-1 tvg-id="EPG123.63109.XMLTV.CO" tvg-name="Infantil | Tooncast" tvg-logo="http://54.39.128.48/img/84.png" group-title="Infantil",Infantil | Tooncast
+http://54.39.51.30:25461/5493416199871/83ZT3T79Y5/12031
+
+
